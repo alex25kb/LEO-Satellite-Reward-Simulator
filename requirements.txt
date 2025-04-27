@@ -4,3 +4,4 @@ numpy
 gym
 stable-baselines3
 pyngrok
+shimmy
